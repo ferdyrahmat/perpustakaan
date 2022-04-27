@@ -29,8 +29,5 @@ Password : admin
 <ul>
     <li> AdminLTE </li>
     <li> PT. Pacifica Raya Technology </li>
-    <li> Stackover Flow </li>
-    <li> Google </li>
-    <li> Github </li>
-    <li> Malasngoding.com </li>
+    <li> Stackoverflow </li>
 </ul>
