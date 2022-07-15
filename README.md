@@ -21,7 +21,7 @@ Password : admin
      <li> Jika sudah klik tombol kirim untuk mengupload database yang dipilih </li>
      <li> Selanjutnya setting file koneksi.php yang terdapat di dalam folder Config </li>
      <li> Sesuaikan dengan setinga di localhost kalian masing masing </li>
-     <li> Jika menurut kalian file koneksi.php sudah sesuai dengan setingan yang kalian gunakan, Selanjutnya kalian bisa langsung masuk ke Aplikasi nya :) </li>
+     <li> Jika menurut kalian file koneksi.php sudah sesuai dengan setingan yang kalian gunakan, Selanjutnya kalian bisa langsung masuk ke Aplikasi nya </li>
      <li> Semoga Bermanfaat </li>
 </ul>
 
